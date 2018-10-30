@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceRoot}",
+                "/home/steina/.arduino15/packages/arduino/tools/**",
+                "/home/steina/.arduino15/packages/arduino/hardware/avr/1.6.23/**",
+                "/home/steina/.arduino15/packages/esp8266/hardware/esp8266/2.4.2/**",
+                "/home/steina/.arduino15/packages/esp8266/tools/**",
+                "/home/steina/arduino-1.8.6/hardware/tools/**",
+                "/home/steina/arduino-1.8.6/libraries/**",
+                "/home/steina/Documents/Arduino/hardware/tools/**",
+                "/home/steina/Documents/Arduino/libraries/**"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
