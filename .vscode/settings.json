@@ -1,6 +1,0 @@
-{
-    "files.associations": {
-        "esp8266webserver.h": "c",
-        "credentials.h": "c"
-    }
-}
