@@ -15,6 +15,7 @@ bool streamFile(String path);
 void serveRoot();
 void notFound();
 
+
 ESP8266WebServer server(80);
 
 void setup()
